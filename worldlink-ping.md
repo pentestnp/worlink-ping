@@ -9,7 +9,6 @@ DNS WLINK
 --------------------------------------------------------------------
 IP add (Local) 27.34.41.1
 --------------------------------------------------------------------
-
 --------------------------
 General failure.
 --------------------------
@@ -20,7 +19,7 @@ Destination net unreachable.
 🕵️‍♂️
 ping-dns-wlink-73.txt
 https://drive.google.com/file/d/1nRv4dFD1SmEXOolQBSrNuVIuSFj9gRp7/view
-
+🕵️‍♂️
 ping-dns-wlink-231.txt
 https://drive.google.com/file/d/1JvZGgMkCrRoaAcr1QT5_cJom4ka-rWcB/view
 
