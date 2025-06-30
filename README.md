@@ -9,10 +9,14 @@ DNS WLINK
 --------------------------------------------------------------------
 IP add (Local) 27.34.41.1
 --------------------------------------------------------------------
-General failure.
-Request timed out.
-Destination net unreachable.
 
+--------------------------
+General failure.
+--------------------------
+Request timed out.
+----------------------------
+Destination net unreachable.
+-----------------------------
 
 ping-dns-wlink-73.txt
 https://drive.google.com/file/d/1nRv4dFD1SmEXOolQBSrNuVIuSFj9gRp7/view
