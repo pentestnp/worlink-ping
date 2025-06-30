@@ -17,7 +17,7 @@ Request timed out.
 ----------------------------
 Destination net unreachable.
 -----------------------------
-
+🕵️‍♂️
 ping-dns-wlink-73.txt
 https://drive.google.com/file/d/1nRv4dFD1SmEXOolQBSrNuVIuSFj9gRp7/view
 
@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1JvZGgMkCrRoaAcr1QT5_cJom4ka-rWcB/view
 
 ping-dns-google-8.txt 
 https://drive.google.com/file/d/1wtfoBVAy3kmB8JlCO862RqNttuWV5QNK/view
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++
 ------------
 PIN-LIST PDF
 https://drive.google.com/file/d/14KI_sNuNsstozP_A9UcDbzoDwVvlfyI_/view?usp=sharing
