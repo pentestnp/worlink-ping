@@ -27,6 +27,7 @@ https://drive.google.com/file/d/1JvZGgMkCrRoaAcr1QT5_cJom4ka-rWcB/view
 ping-dns-google-8.txt 
 https://drive.google.com/file/d/1wtfoBVAy3kmB8JlCO862RqNttuWV5QNK/view
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+------------
 PIN-LIST PDF
 https://drive.google.com/file/d/14KI_sNuNsstozP_A9UcDbzoDwVvlfyI_/view?usp=sharing
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
